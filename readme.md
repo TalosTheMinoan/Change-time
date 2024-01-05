@@ -9,7 +9,7 @@ This script allows players to change the in-game time.
 
 ## Preview
 
-[![Change Time Script Preview]soon)
+[![Change Time Script Preview](https://streamable.com/uzbbqk)](https://streamable.com/uzbbqk)
 
 ## Known Bugs
 
